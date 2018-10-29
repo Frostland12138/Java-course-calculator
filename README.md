@@ -1,1 +1,2 @@
-# Java-course-programs
+# Java-course-calculator
+copyright@xuhongjia902@126.com
